@@ -1,1 +1,3 @@
-# Truffle_
+# MetaCoin Truffle Box
+
+MetaCoin example Truffle project
